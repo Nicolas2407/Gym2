@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import './style.css'
-import App from './App.vue'
+import App from './app.vue'
 import { Quasar } from 'quasar'
 import router from './router'   // <-- Agrega esta línea
 
